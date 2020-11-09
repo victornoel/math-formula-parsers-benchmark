@@ -1,0 +1,18 @@
+# IDE
+.idea/
+*.iml
+.project
+.settings/
+.classpath
+jgiven-reports/
+.vscode/
+.factorypath
+.apt_generated_tests/
+.checkstyle
+.fbExcludeFilterFile
+**/config.groovy
+**/params.json
+**/.info
+
+# Maven
+target/
